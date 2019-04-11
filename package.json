@@ -1,0 +1,30 @@
+{
+  "name": "serverless-copy-template",
+  "version": "1.0.0",
+  "description": "a plugin that let you copy the cloudFormations template to clipboard for easier debugging / diagnostics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "sls",
+    "cloudformation",
+    "copy",
+    "clipboard",
+    "serverless-copy-template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mim-Armand/serverless-copy-template"
+  },
+  "os": [
+    "darwin"
+  ],
+  "author": {
+    "name": "mim Armand",
+    "email": "mim3dot@gmail.com",
+    "url": "https://www.linkedin.com/in/3dots/"
+  },
+  "license": "ISC"
+}
